@@ -1,21 +1,17 @@
 # Dona
 
-### Cada detalhe do seu evento ganha vida.
+Convites digitais, informações do evento e presentes em um só lugar para quem organiza e para quem é convidado.
 
-Convites digitais cheios de estilo e presentes que se transformam em carinho.
-A Dona reúne os detalhes da celebração para quem organiza e para quem é convidado.
+**[Conheça a Dona](https://dona.events)** · **[Instagram · @app.dona](https://www.instagram.com/app.dona/)**
 
-**[Conheça a Dona](https://dona.events)** · **[Instagram](https://www.instagram.com/app.dona/)**
+## Para sua celebração
 
-## Sua celebração, do seu jeito
+- **Convites digitais:** apresente seu evento com um convite personalizado.
+- **Informações para convidados:** compartilhe o convite e reúna os detalhes da celebração.
+- **Presentes:** facilite a participação de quem quer celebrar com você.
 
-- **Convites com personalidade:** apresente seu evento com um convite digital.
-- **Convidados conectados:** compartilhe o convite e reúna as informações da celebração.
-- **Presentes com carinho:** facilite a participação de quem quer celebrar com você.
+## Dona no GitHub
 
-## Construindo a Dona
-
-Este é o espaço de desenvolvimento da plataforma Dona no GitHub.
+Esta organização reúne o desenvolvimento da plataforma Dona. A documentação técnica e as orientações de contribuição ficam nos respectivos repositórios, conforme sua disponibilidade de acesso.
 
 Para conhecer o produto e organizar seu evento, acesse **[dona.events](https://dona.events)**.
-
